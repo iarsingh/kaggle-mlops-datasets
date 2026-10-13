@@ -1,5 +1,12 @@
 # Kaggle MLOps Datasets
 
+## Overview
+
+A set of synthetic, Kaggle-ready datasets for practising MLOps, AIOps, FinOps and GenAI analysis. It covers model monitoring and drift events, incident and alert telemetry for correlation, GCP billing data for cost anomaly and rightsizing work, RAG evaluation telemetry, and a pack of 100 smaller datasets across cloud, DevOps and security. Each dataset ships with Kaggle metadata, a data dictionary, a summary file, a cover image and a reproducible generator script, and a shell script uploads or versions them all through the Kaggle CLI.
+
+- **Built with:** Python, CSV, Kaggle CLI, Bash
+- **Scope:** Synthetic practice data for learning and interview prep; none of it comes from real systems.
+
 This folder contains Kaggle-ready datasets for MLOps portfolio and interview practice.
 
 ## Datasets
